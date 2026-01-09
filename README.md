@@ -54,8 +54,8 @@
 | Website | Description | Repository | Live Demo |
 |-------|------------|------------|-----------|
 | Mercor | U.S.-based AI-powered hiring and talent marketplace | [Repo](https://github.com/Dharmi-456-design/2nd-website) | [Live](https://dharmi-mercor-clone.netlify.app/) |
-| BrandMe | Brand-building and consumer goods company  | [Repo](https://github.com/Dharmi-456-design/4th-website) | [Live](:https://dharmi-brandme-clone.netlify.app/) |
-| Ownd |  youth-focused fashion and lifestyle brand | [Repo](https://github.com/Dharmi-456-design/3rd-website) | [Live](:https://dharmi-ownd-clone.netlify.app/) |
+| BrandMe | Brand-building and consumer goods company  | [Repo](https://github.com/Dharmi-456-design/4th-website) | [Live](https://dharmi-brandme-clone.netlify.app/) |
+| Ownd |  youth-focused fashion and lifestyle brand | [Repo](https://github.com/Dharmi-456-design/3rd-website) | [Live](https://dharmi-ownd-clone.netlify.app/) |
 | For Me | Health-focused apparel and wearable product brand | [Repo](https://github.com/Dharmi-456-design/6th-website) | [Live](https://dharmi-forme-clone.netlify.app/) |
 | Humpy Farms | India-based direct-to-consumer (D2C) organic farming and food brand | [Repo](https://github.com/Dharmi-456-design/5th-website) | [Live](https://dharmi-humpyfarm-clone.netlify.app/) |
 |Xiaomi  | Indian market version of Xiaomi’s official website | [Repo](https://github.com/Dharmi-456-design/1st-website) | [Live](https://dharmi-xiaomi1-clone.netlify.app/) |
