@@ -115,10 +115,26 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
+<!-- Streak / Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmi-456-design&theme=tokyonight&hide_border=true" />
 
 <br/>
 
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmi-456-design&theme=tokyo-night&hide_border=true&area=true&area_color=7B2FBE&color=00C2FF&line=7B2FBE&point=ffffff" />
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
