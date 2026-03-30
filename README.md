@@ -125,17 +125,7 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-<!-- Snake Contribution Animation -->
 
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -143,9 +133,7 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-*⭐ Star my repos if you find them useful — it really motivates me!*
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00C2FF&height=120&section=footer&animation=fadeIn" />
 
