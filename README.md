@@ -154,15 +154,8 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-
-
-
-
 </div>
 
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 <br/>
 ⭐ Star my repos if you find them useful — it really motivates me!
 
