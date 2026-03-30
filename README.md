@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FBE&height=160&section=header&animation=fadeIn" />
+<!-- Top Wave - Dramatic Blue to Purple like the image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9BD4,30:1A6FB5,60:4B3B9E,100:6A0DAD&height=220&section=header&text=Dharmi%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=20&descFontColor=00C2FF&descAlignY=72&animation=fadeIn&stroke=transparent" />
 
-<br/>
+</div>
 
-<!-- Animated Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmi+Patel" />
+<div align="center">
 
 <!-- Animated Role -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;UI+%2F+UX+Designer;React+%26+MongoDB+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Frontend+Developer;UI+%2F+UX+Designer;React+%26+MongoDB+Learner" />
 
 <br/><br/>
 
@@ -30,9 +30,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dharmi-456-design&label=Profile+Views&color=7B2FBE&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Dharmi-456-design&label=Profile+Views&color=6A0DAD&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Dharmi-456-design?label=Followers&style=flat-square&color=0077B5" />
+<img src="https://img.shields.io/github/followers/Dharmi-456-design?label=Followers&style=flat-square&color=0D9BD4" />
 
 </div>
 
@@ -115,18 +115,23 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-<!-- Streak / Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmi-456-design&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmi-456-design&theme=tokyo-night&hide_border=true&area=true&area_color=7B2FBE&color=00C2FF&line=7B2FBE&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmi-456-design&theme=tokyo-night&hide_border=true&area=true&area_color=6A0DAD&color=00C2FF&line=6A0DAD&point=ffffff" />
 
 <br/>
 
 
 <br/>
+
+
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -135,6 +140,9 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00C2FF&height=120&section=footer&animation=fadeIn" />
+<br/>
+
+<!-- Bottom Wave - mirrors the top, purple to blue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,40:4B3B9E,70:1A6FB5,100:0D9BD4&height=160&section=footer&animation=fadeIn" />
 
 </div>
