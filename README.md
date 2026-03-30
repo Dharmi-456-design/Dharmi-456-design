@@ -40,16 +40,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 - 🎓 Computer Engineering Student
 - 🚀 Aspiring Full Stack Developer
 - 💻 Building modern, responsive web apps
 - 🎨 Passionate about UI/UX Design
 - 🌱 Currently learning **React** & **MongoDB**
 - 🤝 Open to collaborations & freelance projects
-
-<br clear="right"/>
 
 ---
 
