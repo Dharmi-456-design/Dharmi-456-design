@@ -116,8 +116,4 @@
 
 ---
 
-# 🌙 Dark / ☀ Light Theme Toggle
 
-You can change theme colors easily:
-
-Replace:
