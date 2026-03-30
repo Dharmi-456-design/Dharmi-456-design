@@ -154,27 +154,14 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
-</picture>
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
-
-*⭐ Star my repos if you find them useful — it really motivates me!*
+\
 
 <br/>
 
