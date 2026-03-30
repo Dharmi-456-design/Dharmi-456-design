@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Top Wave - Dramatic Blue to Purple like the image -->
+<!-- Top Wave - Dramatic Blue to Purple -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9BD4,30:1A6FB5,60:4B3B9E,100:6A0DAD&height=220&section=header&text=Dharmi%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=20&descFontColor=00C2FF&descAlignY=72&animation=fadeIn&stroke=transparent" />
 
 </div>
@@ -53,20 +53,51 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nodejs,git,github,figma,vscode&perline=5&theme=dark" />
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
-<br/><br/>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🎯 Design & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
+
+<!-- Animated scrolling marquee tech icons -->
+<div align="center">
+
+<br/>
+
+**⚡ Technologies I work with:**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" title="Figma" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" title="VS Code" />
 
 </div>
 
@@ -123,10 +154,15 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg" />
+</picture>
 
 <br/>
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -138,11 +174,11 @@ MongoDB           ██████░░░░░░░░░░░░░░�
 
 <br/>
 
-
+*⭐ Star my repos if you find them useful — it really motivates me!*
 
 <br/>
 
-<!-- Bottom Wave - mirrors the top, purple to blue -->
+<!-- Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,40:4B3B9E,70:1A6FB5,100:0D9BD4&height=160&section=footer&animation=fadeIn" />
 
 </div>
