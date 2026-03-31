@@ -215,7 +215,12 @@ graph LR
     D --> E[☁️ Cloud & Docker]
     E --> F[🚀 Full Stack Expert]
 
-  
+   style A fill:#1e1b4b,color:#818cf8,stroke:#6366f1
+    style B fill:#1e1b4b,color:#818cf8,stroke:#6366f1
+    style C fill:#1e1b4b,color:#818cf8,stroke:#6366f1
+    style D fill:#1e1b4b,color:#818cf8,stroke:#6366f1
+    style E fill:#1e1b4b,color:#818cf8,stroke:#6366f1
+    style F fill:#312e81,color:#ffffff,stroke:#a5b4fc
 
 
 ## 🎯 2025 Goals
