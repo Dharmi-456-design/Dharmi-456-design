@@ -1,157 +1,151 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1a2e,60:16213e,100:0f3460&height=250&section=header&text=Hey%2C%20I'm%20Dharmi!%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descColor=93c5fd&descSize=16"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruva%20%26%20Dharmi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descColor=a78bfa"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/Dharmi-456-design">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Design+%26+Brand+Cloning+Expert;%F0%9F%92%BB+Building+Modern%2C+Responsive+Web+Apps;%F0%9F%8C%B1+Currently+Learning+React+%26+MongoDB;%F0%9F%A4%9D+Open+to+Collaborations+%26+Freelance;%E2%AD%90+Let%27s+Build+Something+Amazing!"/>
-</a>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Computer+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%7C+System+Thinker+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES ROW -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Dharmi-456-design&label=Profile+Views&color=3b82f6&style=for-the-badge&labelColor=1e1b4b"/>
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TajaparaDhruva&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Dharmi-456-design?label=Followers&style=for-the-badge&color=3b82f6&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/github/followers/TajaparaDhruva?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Dharmi-456-design?label=Stars+Earned&style=for-the-badge&color=3b82f6&labelColor=1e1b4b"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Collab-22c55e?style=for-the-badge&labelColor=1e1b4b"/>
-</p>
-
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://github.com/Dharmi-456-design">
-    <img src="https://img.shields.io/badge/GitHub-Dharmi--456--design-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dharmi@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/dharmi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
-  </a>
+  <img src="https://img.shields.io/github/stars/TajaparaDhruva?label=Stars&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="stars"/>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist"/>
+## 👨‍💻 About Dhruva
 
 ```yaml
-👩‍💻 name        : Dharmi
-🎓 education   : Computer Engineering Student
-🚀 role        : Aspiring Full Stack Developer
-🎨 passion     : UI/UX Design & Brand-Accurate Cloning
-🌱 learning    : React.js & MongoDB
-🤝 open_to     : Collaborations & Freelance Projects
-📍 location    : India 🇮🇳
-
-🎯 focus:
-  - Building modern, responsive web apps
-  - Pixel-perfect UI/UX implementation
-  - Brand identity recreation & cloning
-
-💡 mindset:
-  - Continuous learner
-  - Detail-obsessed designer
-  - Clean code advocate
-
-⭐ fun_fact     : "Every pixel I place tells a story."
+name: Dhruva Tajapara
+role: Full Stack Developer
+focus: Scalable, High-Performance Web Applications
+mindset: Continuous Learner | Problem Solver | Innovation-Driven
+currently_building:
+  - Advanced Web Performance Optimization
+  - Cloud-Native Technologies
+interests:
+    - System Design
+    - Clean Architecture
+    - Developer Tooling
 ```
 
-<br clear="right"/>
+<br/>
+
+## 👩‍💻 About Dharmi
+
+```yaml
+name: Dharmi
+role: Aspiring Full Stack Developer
+education: Computer Engineering Student
+strengths:
+  - Modern Responsive Web Apps
+  - UI/UX Design Thinking
+  - Brand-Accurate Clone Development
+learning: React & MongoDB
+open_to: Collaborations & Freelance Projects
+projects_shipped: 6+ Live Clones
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Us
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/TajaparaDhruva">
+    <img src="https://img.shields.io/badge/GitHub-TajaparaDhruva-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Dharmi-456-design">
+    <img src="https://img.shields.io/badge/GitHub-Dharmi--456--design-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Dharmi--456--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharmi-456-design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmi)
-[![Twitter](https://img.shields.io/badge/Twitter-@dharmi__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dharmi_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://dharmi.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-dharmi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@dharmi__designs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dharmi_designs)
-
-</div>
+<p align="center">
+  <a href="https://www.leetcode.com/u/Dhruva_Tajapara/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Dhruva_Tajapara">
+    <img src="https://img.shields.io/badge/Codeforces-View%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+</p>
 
 ---
 
-## 🔥 Skills & Tech Stack
+## 🔥 Tech Stack & Skills
 
 ### 🎨 Frontend Development
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,figma,xd&perline=10&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma&perline=10&theme=dark"/>
+</p>
 
-<br/>
+### ⚙️ Backend Development
 
-### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,graphql,rest&perline=10&theme=dark"/>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,python&perline=10&theme=dark"/>
-</div>
+### 🗄️ Databases & Storage
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&perline=10&theme=dark"/>
+</p>
 
-### 🎯 Design & Tools
+### 🛠️ Tools & DevOps
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,git,github,vscode,vercel,netlify,linux&perline=10&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,postman&perline=10&theme=dark"/>
+</p>
 
 ---
 
-## 📊 Skill Proficiency
-
-<div align="center">
-
-| Skill | Level | Progress |
-|:------|:-----:|:---------|
-| HTML & CSS | ⭐ Expert | `████████████████████░░` **90%** |
-| JavaScript | 🔥 Advanced | `████████████████░░░░░░` **72%** |
-| UI / UX Design | ✨ Proficient | `███████████████░░░░░░░` **68%** |
-| Git & GitHub | 💪 Comfortable | `█████████████░░░░░░░░░` **60%** |
-| React.js | 📈 Learning | `████████░░░░░░░░░░░░░░` **38%** |
-| MongoDB | 🌱 Growing | `██████░░░░░░░░░░░░░░░░` **28%** |
-
-</div>
+## 📊 Skill Proficiency (Dharmi)
 
 ```
-⚡ Technologies I work with daily:
-   HTML5 / CSS3       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-   JavaScript (ES6+)  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        72%
-   Tailwind CSS       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         70%
-   Figma & XD         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━            68%
-   Git & GitHub       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                60%
-   React.js           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                    38%
-   Node.js / Express  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                       35%
-   MongoDB            ━━━━━━━━━━━━━━━━━━━━━━━━━                             28%
+HTML & CSS        ████████████████████░░  90%  ⭐ Expert
+JavaScript        ████████████████░░░░░░  72%  🔥 Advanced
+UI / UX Design    ███████████████░░░░░░░  68%  ✨ Proficient
+Git & GitHub      █████████████░░░░░░░░░  60%  💪 Comfortable
+React             ████████░░░░░░░░░░░░░░  38%  📈 Learning
+MongoDB           ██████░░░░░░░░░░░░░░░░  28%  🌱 Growing
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Dharmi)
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🔧 Stack | 🔗 Live |
-|:---|:---|:---:|:---:|
-| 🤖 **Mercor Clone** | AI-powered hiring platform UI | HTML CSS JS | [🌐 Live Demo](#) |
-| 🎯 **BrandMe Clone** | Consumer goods brand website | HTML CSS JS | [🌐 Live Demo](#) |
-| 👗 **Ownd Clone** | Fashion & lifestyle website | HTML CSS JS | [🌐 Live Demo](#) |
-| ⌚ **For Me Clone** | Health wearable brand UI | HTML CSS JS | [🌐 Live Demo](#) |
-| 🌿 **Humpy Farms Clone** | Organic farming brand website | HTML CSS JS | [🌐 Live Demo](#) |
-| 📱 **Xiaomi Clone** | Xiaomi India website clone | HTML CSS JS | [🌐 Live Demo](#) |
+| 🏗️ Project | 📝 Description | 🔗 Live |
+|:---:|:---:|:---:|
+| **Mercor Clone** | AI-powered hiring platform UI | [🌐 View Live](#) |
+| **BrandMe Clone** | Consumer goods brand website | [🌐 View Live](#) |
+| **Ownd Clone** | Fashion & lifestyle website | [🌐 View Live](#) |
+| **For Me Clone** | Health wearable brand UI | [🌐 View Live](#) |
+| **Humpy Farms Clone** | Organic farming brand website | [🌐 View Live](#) |
+| **Xiaomi Clone** | Xiaomi India website clone | [🌐 View Live](#) |
+
+</div>
+
+---
+
+## 💻 Competitive Programming (Dhruva)
+
+<div align="center">
+
+| Platform | Profile |
+|:---:|:---:|
+| 🟡 **LeetCode** | [Dhruva_Tajapara](https://www.leetcode.com/u/Dhruva_Tajapara/) |
+| 🔵 **Codeforces** | [Dhruva_Tajapara](https://codeforces.com/profile/Dhruva_Tajapara) |
 
 </div>
 
@@ -161,20 +155,20 @@
 
 <div align="center">
 
-<!-- Stats + Languages -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Dharmi-456-design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&ring_color=3b82f6"/>
+<!-- Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TajaparaDhruva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmi-456-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajaparaDhruva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
 <br/><br/>
 
-<!-- 🔥 Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=Dharmi-456-design&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak Stats"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=TajaparaDhruva&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
 
 <br/><br/>
 
-<!-- 📅 Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmi-456-design&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" alt="Contribution Graph"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TajaparaDhruva&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
@@ -183,65 +177,46 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TajaparaDhruva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ---
 
-## 📈 Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-HTML         ██████████████░░░░░░░░░░   55.4 %
-CSS          ████████░░░░░░░░░░░░░░░░   30.2 %
-JavaScript   ████░░░░░░░░░░░░░░░░░░░░   10.1 %
-Markdown     █░░░░░░░░░░░░░░░░░░░░░░░    3.1 %
-Other        ░░░░░░░░░░░░░░░░░░░░░░░░    1.2 %
-```
-<!--END_SECTION:waka-->
-
----
-
-## 💭 Developer Thoughts
+## 💭 Developer Mindset
 
 <div align="center">
 
-> ### *"Every pixel I place tells a story.*
-> ### *Every line of code I write solves a problem.*
-> ### *Design is not decoration — it is communication."*
+> *"Code is not just about making things work.*
+> *It's about making them work beautifully, efficiently, and with purpose."*
 >
-> **— Dharmi** 🎨
+> — **Dhruva Tajapara**
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+> *"Every pixel matters. Every interaction tells a story.*
+> *Design is not decoration — it's communication."*
+>
+> — **Dharmi**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-snake.svg"/>
-  </picture>
-</div>
-
----
-
-## 🎯 2025 Goals
+## 🌟 What Drives Us
 
 ```javascript
-const dharmi2025 = {
-  master: ["React.js", "MongoDB", "Node.js"],
-  build: ["5+ original projects", "personal portfolio website", "open-source contributions"],
-  design: ["10+ UI/UX case studies", "advanced Figma prototypes"],
-  grow: ["freelance client base", "GitHub profile to 100+ stars"],
-  learn: ["TypeScript", "Next.js", "REST APIs", "Authentication"],
-  mindset: "Ship fast. Learn faster. Never stop improving. 🚀"
+const ourMission = {
+  dhruva: {
+    goal: "Build production-grade apps with clean architecture",
+    philosophy: "Performance + Elegance = Excellence",
+    currentFocus: ["System Design", "Cloud Technologies", "Web Optimization"]
+  },
+  dharmi: {
+    goal: "Create beautiful, user-centered web experiences",
+    philosophy: "Design with empathy, build with precision",
+    currentFocus: ["React Mastery", "MongoDB", "Responsive Design"]
+  },
+  together: "Transforming complex problems into elegant, scalable solutions 🚀"
 };
 ```
 
@@ -249,20 +224,13 @@ const dharmi2025 = {
 
 <div align="center">
 
-### 💫 Support My Work
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-*If you find my projects useful or inspiring, consider giving them a ⭐!*
-*It helps me stay motivated and keep building cool things.*
-
-[![GitHub followers](https://img.shields.io/github/followers/Dharmi-456-design?label=Follow%20Me&style=social)](https://github.com/Dharmi-456-design)
-&nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/Dharmi-456-design?style=social&label=Star%20My%20Repos)](https://github.com/Dharmi-456-design?tab=repositories)
+**⭐ If you find our work useful, don't forget to star our repos! It really motivates us. ⭐**
 
 <br/>
 
-*Made with ❤️ and lots of ☕ by **Dharmi***
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0f0c29&height=130&section=footer"/>
+*Made with ❤️ by Dhruva & Dharmi*
 
 </div>
