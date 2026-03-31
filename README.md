@@ -17,12 +17,7 @@
   <img src="https://img.shields.io/github/stars/Dharmi-456-design?label=Total+Stars&style=for-the-badge&color=6366f1&labelColor=1e1b4b"/>
 </p>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dharmi-456-design/Dharmi-456-design/output/github-contribution-grid-snake.svg"/>
-</picture>
+
 
 </div>
 
@@ -146,16 +141,16 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║               🎯 DHARMI'S SKILL LEVELS                  ║
-╠══════════════════════════════════════════════════════════╣
-║  HTML & CSS       ████████████████████░░  90%  ⭐ Expert ║
-║  JavaScript       ████████████████░░░░░░  72%  🔥 Adv.  ║
-║  UI / UX Design   ███████████████░░░░░░░  68%  ✨ Prof.  ║
-║  Git & GitHub     █████████████░░░░░░░░░  60%  💪 Comf. ║
-║  React.js         ████████░░░░░░░░░░░░░░  38%  📈 Learn ║
-║  MongoDB          ██████░░░░░░░░░░░░░░░░  28%  🌱 Grow  ║
-╚══════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════╗
+║               🎯 DHARMI'S SKILL LEVELS          ║
+╠═════════════════════════════════════════════════╣
+║  HTML & CSS       ████████████████████░░  90%   ║
+║  JavaScript       ████████████████░░░░░░  72%   ║
+║  UI / UX Design   ███████████████░░░░░░░  68%   ║
+║  Git & GitHub     █████████████░░░░░░░░░  60%   ║
+║  React.js         ████████░░░░░░░░░░░░░░  38%   ║
+║  MongoDB          ██████░░░░░░░░░░░░░░░░  28%   ║
+╚═════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -199,15 +194,8 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7&row=1"/>
-</div>
-
----
 
 ## 📅 Contribution Graph
 
@@ -227,15 +215,8 @@ graph LR
     D --> E[☁️ Cloud & Docker]
     E --> F[🚀 Full Stack Expert]
 
-    style A fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style B fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style C fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style D fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style E fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style F fill:#312e81,color:#ffffff,stroke:#a5b4fc
-```
+  
 
----
 
 ## 🎯 2025 Goals
 
@@ -297,7 +278,7 @@ graph LR
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:65c7f7,30:0052d4,70:3813c2,100:ff6fd8&height=130&section=footer"/>
 
-**✨ Made with 💜 passion & ☕ coffee by Dharmi ✨**
+
 
 *"Building one commit at a time 🚀"*
 
