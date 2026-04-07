@@ -233,12 +233,8 @@ graph LR
 
 ---
 
-<div align="center">
 
-### 🌟 Show Some Love
 
-*If you find my work useful or inspiring, please consider starring my repos!*
-*Every ⭐ motivates me to keep building and learning.* 🙏
 
 <br/>
 
