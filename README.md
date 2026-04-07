@@ -151,6 +151,9 @@
 
 ## 📈 GitHub Analytics
 
+<div align="center">
+
+
 <br/><br/>
 
 <!-- Streak -->
