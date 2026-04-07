@@ -138,7 +138,7 @@
 
 | 🏗️ Project | 📝 Description | 💡 Tech Used | 🔗 Live |
 |:---:|:---|:---:|:---:|
-| 🤖 **Mercor Clone** | AI-powered hiring platform UI with modern design | HTML, CSS, JS | [🌐 Live](#) |
+| 🤖 **Mercor Clone** | AI-powered hiring platform UI with modern design | HTML, CSS, JS | [🌐 Live]() |
 | 🏷️ **BrandMe Clone** | Consumer goods brand website with smooth UX | HTML, CSS, JS | [🌐 Live](#) |
 | 👗 **Ownd Clone** | Fashion & lifestyle website with elegant UI | HTML, CSS, JS | [🌐 Live](#) |
 | ❤️‍🩹 **For Me Clone** | Health wearable brand UI with clean layout | HTML, CSS | [🌐 Live](#) |
