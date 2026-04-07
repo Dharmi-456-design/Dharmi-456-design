@@ -201,20 +201,7 @@ graph LR
 
 ---
 
-## 🎯 2025 Goals
 
-<div align="center">
-
-- [x] 🖥️ Master HTML & CSS to expert level
-- [x] 🎨 Build 6+ production-quality project clones
-- [x] 📐 Develop strong UI/UX design instincts
-- [ ] ⚛️ Build 3 full React.js projects
-- [ ] 🗄️ Launch first full-stack MERN app
-- [ ] 🌍 Contribute to open-source projects
-- [ ] 🚀 Land first freelance client
-- [ ] ☁️ Learn cloud deployment (Vercel + AWS basics)
-
-</div>
 
 ---
 </br>
