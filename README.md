@@ -138,12 +138,12 @@
 
 | 🏗️ Project | 📝 Description | 💡 Tech Used | 🔗 Live |
 |:---:|:---|:---:|:---:|
-| 🤖 **Mercor Clone** | AI-powered hiring platform UI with modern design | HTML, CSS, JS | [🌐 Live]() |
-| 🏷️ **BrandMe Clone** | Consumer goods brand website with smooth UX | HTML, CSS, JS | [🌐 Live](#) |
-| 👗 **Ownd Clone** | Fashion & lifestyle website with elegant UI | HTML, CSS, JS | [🌐 Live](#) |
-| ❤️‍🩹 **For Me Clone** | Health wearable brand UI with clean layout | HTML, CSS | [🌐 Live](#) |
-| 🌾 **Humpy Farms Clone** | Organic farming brand with earthy design | HTML, CSS, JS | [🌐 Live](#) |
-| 📱 **Xiaomi Clone** | Xiaomi India website pixel-perfect clone | HTML, CSS, JS | [🌐 Live](#) |
+| 🤖 **Mercor Clone** | AI-powered hiring platform UI with modern design | HTML, CSS, JS | [🌐 Live](https://jazzy-monstera-847527.netlify.app/) |
+| 🏷️ **BrandMe Clone** | Consumer goods brand website with smooth UX | HTML, CSS, JS | [🌐 Live](https://leafy-treacle-3327b6.netlify.app/) |
+| 👗 **Ownd Clone** | Fashion & lifestyle website with elegant UI | HTML, CSS, JS | [🌐 Live](https://regal-churros-a846f4.netlify.app/) |
+| ❤️‍🩹 **For Me Clone** | Health wearable brand UI with clean layout | HTML, CSS | [🌐 Live](https://visionary-lokum-d50571.netlify.app/) |
+| 🌾 **Humpy Farms Clone** | Organic farming brand with earthy design | HTML, CSS, JS | [🌐 Live](https://comforting-tanuki-27fe31.netlify.app/) |
+| 📱 **Xiaomi Clone** | Xiaomi India website pixel-perfect clone | HTML, CSS, JS | [🌐 Live](https://sage-strudel-eb273a.netlify.app/) |
 
 </div>
 
