@@ -34,20 +34,7 @@
   - Creative Problem Solver
   - Continuous Learner
 
-🌱 Currently Learning:
-  - React.js & Next.js
-  - MongoDB & REST APIs
-  - Advanced CSS Animations
 
-🤝 Open To:
-  - Collaborations
-  - Freelance Projects
-  - Open Source Contributions
-
-⚡ Fun Fact:
-  - I spend more time choosing fonts
-    than writing the actual CSS 🎨
-```
 
 <br clear="right"/>
 
@@ -178,23 +165,8 @@
 
 ---
 
-## 💡 My Learning Roadmap
 
-```mermaid
-graph LR
-    A[🌱 HTML & CSS] --> B[⚡ JavaScript]
-    B --> C[⚛️ React & Next.js]
-    C --> D[🗄️ MongoDB & Node]
-    D --> E[☁️ Cloud & Docker]
-    E --> F[🚀 Full Stack Expert]
 
-    style A fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style B fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style C fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style D fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style E fill:#1e1b4b,color:#818cf8,stroke:#6366f1
-    style F fill:#312e81,color:#ffffff,stroke:#a5b4fc
-```
 
 ---
 
