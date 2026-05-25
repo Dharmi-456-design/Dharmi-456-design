@@ -46,11 +46,11 @@
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/dharmi">
+  <a href="https://www.linkedin.com/in/dharmi-patel-0b899b389/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/>
   </a>
   &nbsp;
-  <a href="https://dharmi-portfolio.vercel.app">
+  <a href="https://dharmipatel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b"/>
   </a>
 </p>
