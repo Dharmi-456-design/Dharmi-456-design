@@ -28,10 +28,7 @@
   - UI/UX Design with Empathy
   - Brand-Accurate Clone Development
 
-💡 Mindset:
-  - Pixel-Perfect Perfectionist
-  - Creative Problem Solver
-  - Continuous Learner
+
 ```
 
 <br clear="right"/>
