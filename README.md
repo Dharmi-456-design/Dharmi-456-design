@@ -189,7 +189,7 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/3mprZRXZPe?theme=dark&font=JetBrains%20Mono&ext=heatmap&bg_color=0f2027&border_color=00d9c0&text_color=c7d2fe" alt="Dharmi's LeetCode Stats" width="90%"/>
+<img src="https://img.shields.io/badge/●%20LIVE-Updates%20on%20every%20view-00d9c0?style=flat-square&labelColor=0f2027" height="24"/>
 
 <br/><br/>
 
@@ -200,7 +200,13 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 <br/><br/>
 
-<img src="https://leetcode-badges-card.vercel.app/api?username=3mprZRXZPe" alt="LeetCode Badges" width="70%"/>
+<img src="https://leetcard.jacoblin.cool/3mprZRXZPe?theme=dark&font=JetBrains%20Mono&ext=heatmap&bg_color=0f2027&border_color=00d9c0&text_color=c7d2fe" alt="Dharmi's LeetCode Stats — Live Heatmap" width="90%"/>
+
+<br/><br/>
+
+<img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" alt="50 Days Badge 2026" width="90"/>
+<br/>
+<sub><b>50 Days Badge 2026</b></sub>
 
 </div>
 
@@ -210,7 +216,7 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 > *"I don't just build websites — I craft experiences users feel, not just see."*
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dharmi-456-design&theme=darkhub&column=4&margin-w=10&margin-h=10&row=2" width="80%"/>
 
 <br/><br/>
 
