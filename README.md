@@ -111,6 +111,16 @@ An interactive learning platform built for coding students.
 </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+### 🤖 BloodBridge-AI
+BloodBridge is a smart emergency blood-matching platform that quickly connects blood donors with patients in need
+
+`React` 
+
+[**→ View live**](https://bloodbridge-2.netlify.app/)
+
+</td>
 <td width="50%" valign="top">
 
 ### ❤️‍🩹 For Me — Clone
@@ -121,16 +131,7 @@ Health wearable brand experience with a clean, breathable layout.
 [**→ View live**](https://visionary-lokum-d50571.netlify.app/)
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 Mercor — Clone
-AI hiring platform UI, rebuilt with a modern, recruiter-first design.
-
-`HTML` `CSS` `JS`
-
-[**→ View live**](https://jazzy-monstera-847527.netlify.app/)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
