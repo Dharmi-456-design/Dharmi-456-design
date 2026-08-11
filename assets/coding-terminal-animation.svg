@@ -1,0 +1,82 @@
+<svg width="480" height="320" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, Consolas, monospace">
+
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="frameGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#122a30"/>
+    </linearGradient>
+  </defs>
+
+  <!-- floating decorative symbols -->
+  <g>
+    <text x="26" y="42" fill="#00d9c0" opacity="0.4" font-size="24" font-weight="700">{ }</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-9; 0,0" keyTimes="0;0.5;1" dur="3.2s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <text x="410" y="34" fill="#7fffd4" opacity="0.4" font-size="20" font-weight="700">&lt;/&gt;</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,10; 0,0" keyTimes="0;0.5;1" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <text x="420" y="300" fill="#00d9c0" opacity="0.3" font-size="18" font-weight="700">#</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-7; 0,0" keyTimes="0;0.5;1" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- terminal window -->
+  <rect x="20" y="60" width="440" height="220" rx="14" fill="url(#frameGrad)" stroke="#00d9c0" stroke-width="1.5" filter="url(#glow)"/>
+
+  <!-- title bar -->
+  <rect x="20" y="60" width="440" height="34" rx="14" fill="#0a1a1f"/>
+  <rect x="20" y="80" width="440" height="14" fill="#0a1a1f"/>
+  <circle cx="42" cy="77" r="6" fill="#ff5f56"/>
+  <circle cx="62" cy="77" r="6" fill="#ffbd2e"/>
+  <circle cx="82" cy="77" r="6" fill="#27c93f"/>
+  <text x="240" y="82" fill="#7fffd4" font-size="12" text-anchor="middle" opacity="0.8">dharmi.js</text>
+
+  <!-- animated code lines -->
+  <g font-size="15">
+    <text x="42" y="130" fill="#00d9c0" opacity="0">
+      <tspan>const dharmi = {</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.08;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="62" y="158" fill="#ffc01e" opacity="0">
+      <tspan>role: "Full Stack Developer",</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08;0.14;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="62" y="186" fill="#7fffd4" opacity="0">
+      <tspan>skills: ["React", "Node", "UI/UX"],</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.14;0.20;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="62" y="214" fill="#ffc01e" opacity="0">
+      <tspan>status: "Always learning",</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.26;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="42" y="242" fill="#00d9c0" opacity="0">
+      <tspan>};</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26;0.30;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="42" y="270" fill="#ff6fd8" opacity="0">
+      <tspan>dharmi.build();</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.38;0.7;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking terminal cursor -->
+  <rect x="150" y="258" width="10" height="16" fill="#00d9c0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
