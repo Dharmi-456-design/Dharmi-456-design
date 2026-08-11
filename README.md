@@ -175,7 +175,7 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00d9c0/Dharmi-456-design" alt="Contribution Chart" width="95%"/>
+
 
 </div>
 
