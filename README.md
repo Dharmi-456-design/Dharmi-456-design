@@ -33,7 +33,7 @@ const dharmi = {
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img src="assets/coding-terminal-animation.svg" width="100%" alt="Animated coding terminal"/>
 
 </td>
 </tr>
@@ -175,6 +175,8 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 <br/><br/>
 
+<img src="https://ghchart.rshah.org/00d9c0/Dharmi-456-design" alt="Contribution Chart" width="95%"/>
+
 </div>
 
 <br/>
@@ -191,10 +193,15 @@ Fashion & lifestyle site with an elegant, editorial-grade feel.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0f2027&color=00d9c0&label=Total%20Solved&query=solvedProblem&url=https://alfa-leetcode-api.onrender.com/3mprZRXZPe/solved&logo=leetcode&logoColor=FFA116" height="32"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0f2027&color=00b8a3&label=Easy&query=easySolved&url=https://alfa-leetcode-api.onrender.com/3mprZRXZPe/solved" height="32"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0f2027&color=ffc01e&label=Medium&query=mediumSolved&url=https://alfa-leetcode-api.onrender.com/3mprZRXZPe/solved" height="32"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0f2027&color=ff375f&label=Hard&query=hardSolved&url=https://alfa-leetcode-api.onrender.com/3mprZRXZPe/solved" height="32"/>
+<!--LEETCODE:START-->
+<img src="https://img.shields.io/badge/Total%20Solved-282-00d9c0?style=for-the-badge&labelColor=0f2027" height="32"/>
+<img src="https://img.shields.io/badge/Easy-226-00b8a3?style=for-the-badge&labelColor=0f2027" height="32"/>
+<img src="https://img.shields.io/badge/Medium-56-ffc01e?style=for-the-badge&labelColor=0f2027" height="32"/>
+<img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge&labelColor=0f2027" height="32"/>
+<!--LEETCODE:END-->
+
+<br/>
+<sub>⏱️ Auto-updates every 30 minutes via GitHub Actions</sub>
 
 <br/><br/>
 
